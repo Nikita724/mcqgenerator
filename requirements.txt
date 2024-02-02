@@ -1,0 +1,8 @@
+pandas
+numpy
+openai
+langchain
+matplotlib
+streamlit
+python-dotenv
+PyPDF2
